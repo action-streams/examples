@@ -3,7 +3,7 @@
     "@action-streams/core": "0.x.x",
     "@action-streams/location": "0.x.x",
     "@action-streams/state": "0.x.x",
-    "@action-streams/storage": "^0.x.x",
+    "@action-streams/storage": "0.x.x",
     "@action-streams/vdom": "0.x.x",
     "@most/core": "1.x.x",
     "@most/types": "1.x.x",
