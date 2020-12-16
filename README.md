@@ -2,5 +2,5 @@
 
 - TodoMVC
   - [http://todomvc.com](http://todomvc.com)
-  - [launch](todomvc/dist)
-  - [source](todomvc)
+  - [launch](https://action-streams.github.io/examples/todomvc/dist/)
+  - [source](https://github.com/action-streams/examples/tree/main/todomvc)
