@@ -1,0 +1,14 @@
+/*!
+ * Cross-Browser Split 1.1.1
+ * Copyright 2007-2012 Steven Levithan <stevenlevithan.com>
+ * Available under the MIT License
+ * ECMAScript compliant, uniform cross-browser split method
+ */
+
+/** @license MIT License (c) copyright 2010 original author or authors */
+
+/** @license MIT License (c) copyright 2010-2016 original author or authors */
+
+/** @license MIT License (c) copyright 2010-2017 original author or authors */
+
+/** @license MIT License (c) copyright 2016 original author or authors */
