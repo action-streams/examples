@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "@action-streams/core": "0.x.x",
+    "@action-streams/location": "0.x.x",
+    "@action-streams/state": "0.x.x",
+    "@action-streams/vdom": "0.x.x",
+    "@most/core": "1.x.x",
+    "@most/types": "1.x.x",
+    "clsx": "1.x.x",
+    "core-js": "3.x.x",
+    "path-to-regexp": "6.x.x"
+  },
+  "devDependencies": {
+    "@babel/core": "7.x.x",
+    "@babel/plugin-transform-react-jsx": "7.x.x",
+    "@babel/preset-env": "7.x.x",
+    "@typescript-eslint/eslint-plugin": "4.x.x",
+    "@typescript-eslint/parser": "4.x.x",
+    "babel-loader": "8.x.x",
+    "eslint": "7.x.x",
+    "eslint-config-prettier": "7.x.x",
+    "eslint-plugin-prettier": "3.x.x",
+    "html-webpack-plugin": "4.x.x",
+    "prettier": "2.x.x",
+    "ts-loader": "8.x.x",
+    "typescript": "4.x.x",
+    "webpack": "5.x.x",
+    "webpack-cli": "4.x.x",
+    "webpack-dev-server": "3.x.x"
+  },
+  "scripts": {
+    "build": "webpack --mode production",
+    "dev": "webpack serve --mode development"
+  },
+  "version": "0.0.1"
+}
